@@ -45,8 +45,9 @@ En este momento, podemos comprobar que la instalación se ha hecho de forma corr
 
 ``docker run docker/whalesay cowsay Saludos desde el fondo marino``
 
-<img width="311" alt="inst5" src="https://user-images.githubusercontent.com/91699247/167951168-3e1c1d19-3420-4146-9ee7-958ef7da83f5.PNG">
+
 <img width="453" alt="inst4" src="https://user-images.githubusercontent.com/91699247/167951170-e9fa4f79-84b3-43b3-9d60-366ed21f9488.PNG">
+<img width="311" alt="inst5" src="https://user-images.githubusercontent.com/91699247/167951168-3e1c1d19-3420-4146-9ee7-958ef7da83f5.PNG">
 
 
 
