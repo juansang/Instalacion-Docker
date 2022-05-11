@@ -43,7 +43,7 @@ En este momento, podemos comprobar que la instalación se ha hecho de forma corr
 
 
 
-``docker run docker/whalesay cowsay Saludos desde el fondo marino``
+``docker run docker/whalesay cowsay``
 
 
 <img width="453" alt="inst4" src="https://user-images.githubusercontent.com/91699247/167951170-e9fa4f79-84b3-43b3-9d60-366ed21f9488.PNG">
